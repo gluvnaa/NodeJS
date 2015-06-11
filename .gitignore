@@ -1,8 +1,1 @@
-$ tree
-.
-|-- .travis.yml
-|-- Gruntfile.js
-|-- hello.js
-|-- .gitignore
-|-- README.md
-`-- package.jso
+node_modules/*
